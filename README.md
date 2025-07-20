@@ -412,18 +412,15 @@ function GameLeagueTimer() {
 
 ### 💬 **Способы связи**
 
-- 🐛 **Баги и предложения**: [GitHub Issues](https://github.com/YOUR_USERNAME/GameLeague-Timer/issues)
-- 💡 **Идеи**: [GitHub Discussions](https://github.com/YOUR_USERNAME/GameLeague-Timer/discussions)
-- 📧 **Email**: your.email@example.com
-- 💬 **Discord**: YourDiscord#1234
+- 🐛 **Баги и предложения**: [Telegram](https://t.me/DeadKDV)
+- 💡 **Идеи**: [Telegram](https://t.me/DeadKDV)
+
 
 ### 🎁 **Поддержать проект**
 
 Если таймер оказался полезным:
 
 - ⭐ **Поставьте звезду** на GitHub
-- 🐛 **Сообщите о багах** в Issues
-- 💡 **Предложите улучшения**
 - 📢 **Расскажите друзьям**
 
 ### 📝 **Лицензия**
