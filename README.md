@@ -1,4 +1,4 @@
-# 🎮 Timer [GameLeague](https://github.com/DeadKDV)
+# 🎮 Timer [GameLeague]([https://github.com/DeadKDV](https://gameleague.su))
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 ### 🌐 **Интеграции**
 - ✅ Google OAuth авторизация
 - ✅ WebSocket сервер для OBS
-- ✅ [GameLeague](https://github.com/DeadKDV) интеграция
+- ✅ [GameLeague]([https://github.com/DeadKDV](https://gameleague.su)) интеграция
 - ✅ Автоматические обновления
 
 </td>
@@ -379,7 +379,7 @@ SOFTWARE.
 
 <div align="center">
 
-**🎮 Timer [GameLeague](https://github.com/DeadKDV) - Ваш профессиональный спутник в мире гейминга! 🎮**
+**🎮 Timer [GameLeague]([https://github.com/DeadKDV](https://gameleague.su)) - Ваш профессиональный спутник в мире гейминга! 🎮**
 
 *Сделано с ❤️ от [DeadKDV](https://github.com/DeadKDV)*
 
