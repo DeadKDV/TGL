@@ -6,7 +6,6 @@
 
 [![Version](https://img.shields.io/badge/version-1.1.9-blue.svg)](https://github.com/DeadKDV/TGL/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/DeadKDV/TGL/releases)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Author](https://img.shields.io/badge/by-DeadKDV-purple.svg)](https://github.com/DeadKDV)
 
 </div>
@@ -386,7 +385,7 @@ SOFTWARE.
 
 *Сделано с ❤️ от [DeadKDV](https://github.com/DeadKDV)*
 
-[![GitHub Stars](https://img.shields.io/github/stars/DeadKDV/TGL?style=social)](https://github.com/DeadKDVE/TGL/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/DeadKDV/TGL?style=social)](https://github.com/DeadKDV/TGL/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/DeadKDV/TGL?style=social)](https://github.com/DeadKDV/TGL/network/members)
 
 </div> 
