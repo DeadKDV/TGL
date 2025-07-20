@@ -1,11 +1,11 @@
-# 🎮 GameLeague Timer
+# 🎮 Timer GameLeague
 
 <div align="center">
 
 **Профессиональный таймер для спидранов и игровых сессий**
 
-[![Version](https://img.shields.io/badge/version-1.1.9-blue.svg)](https://github.com/YOUR_USERNAME/GameLeague-Timer/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/YOUR_USERNAME/GameLeague-Timer/releases)
+[![Version](https://img.shields.io/badge/version-1.1.9-blue.svg)](https://github.com/DeadKDV/TGL/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/DeadKDV/TGL/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Author](https://img.shields.io/badge/by-DeadKDV-purple.svg)](https://github.com/DeadKDV)
 
@@ -224,76 +224,6 @@ Height: 200px
 FPS: 30
 ```
 
----
-
-## 🔗 WebSocket API
-
-### 🔌 **Подключение**
-
-```javascript
-const ws = new WebSocket('ws://localhost:8765/ws');
-
-ws.onmessage = function(event) {
-    const time = event.data; // Формат: "HH:MM:SS"
-    console.log('Timer:', time);
-};
-```
-
-### 📡 **Endpoints**
-
-| Endpoint | Метод | Описание |
-|----------|-------|----------|
-| `/` | GET | HTML страница с таймером |
-| `/ws` | WebSocket | Поток времени в реальном времени |
-
-### 💡 **Примеры использования**
-
-<details>
-<summary>🌐 Простая веб-страница</summary>
-
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>GameLeague Timer</title>
-</head>
-<body>
-    <div id="timer">00:00:00</div>
-    <script>
-        const ws = new WebSocket('ws://localhost:8765/ws');
-        ws.onmessage = (e) => {
-            document.getElementById('timer').textContent = e.data;
-        };
-    </script>
-</body>
-</html>
-```
-
-</details>
-
-<details>
-<summary>⚛️ React компонент</summary>
-
-```jsx
-import React, { useState, useEffect } from 'react';
-
-function GameLeagueTimer() {
-    const [time, setTime] = useState('00:00:00');
-
-    useEffect(() => {
-        const ws = new WebSocket('ws://localhost:8765/ws');
-        ws.onmessage = (event) => setTime(event.data);
-        return () => ws.close();
-    }, []);
-
-    return <div className="timer">{time}</div>;
-}
-```
-
-</details>
-
----
-
 ## 🔐 Безопасность
 
 ### 🛡️ **Защита данных**
@@ -452,11 +382,11 @@ SOFTWARE.
 
 <div align="center">
 
-**🎮 GameLeague Timer - Ваш профессиональный спутник в мире гейминга! 🎮**
+**🎮 Timer GameLeague - Ваш профессиональный спутник в мире гейминга! 🎮**
 
 *Сделано с ❤️ от [DeadKDV](https://github.com/DeadKDV)*
 
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/GameLeague-Timer?style=social)](https://github.com/YOUR_USERNAME/GameLeague-Timer/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/YOUR_USERNAME/GameLeague-Timer?style=social)](https://github.com/YOUR_USERNAME/GameLeague-Timer/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/DeadKDV/TGL?style=social)](https://github.com/DeadKDVE/TGL/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/DeadKDV/TGL?style=social)](https://github.com/DeadKDV/TGL/network/members)
 
 </div> 
