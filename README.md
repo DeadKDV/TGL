@@ -116,7 +116,7 @@
 <details>
 <summary>📸 Показать скриншоты</summary>
 
-![Главное окно](screenshots/main-window.png)
+![Главное окно](screenshots/install.png)
 *Главное окно приложения*
 
 </details>
