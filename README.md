@@ -411,7 +411,7 @@ function GameLeagueTimer() {
 
 ### 💬 **Способы связи**
 
-- 🐛 **Баги и предложения**: [Telegram](https://t.me/DeadKDV)
+- 🐛 **Баги**: [Telegram](https://t.me/DeadKDV)
 - 💡 **Идеи**: [Telegram](https://t.me/DeadKDV)
 
 
