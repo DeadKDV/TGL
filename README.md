@@ -1,4 +1,4 @@
-# 🎮 Timer GameLeague
+# 🎮 Timer [GameLeague](https://github.com/DeadKDV)
 
 <div align="center">
 
