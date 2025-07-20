@@ -56,7 +56,7 @@
 ### 🌐 **Интеграции**
 - ✅ Google OAuth авторизация
 - ✅ WebSocket сервер для OBS
-- ✅ GameLeague интеграция
+- ✅ [GameLeague](https://github.com/DeadKDV) интеграция
 - ✅ Автоматические обновления
 
 </td>
@@ -380,7 +380,7 @@ SOFTWARE.
 
 <div align="center">
 
-**🎮 Timer GameLeague - Ваш профессиональный спутник в мире гейминга! 🎮**
+**🎮 Timer [GameLeague](https://github.com/DeadKDV) - Ваш профессиональный спутник в мире гейминга! 🎮**
 
 *Сделано с ❤️ от [DeadKDV](https://github.com/DeadKDV)*
 
