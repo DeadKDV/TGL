@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Logo](logo.ico)
-
 **Профессиональный таймер для спидранов и игровых сессий**
 
 [![Version](https://img.shields.io/badge/version-1.1.9-blue.svg)](https://github.com/YOUR_USERNAME/GameLeague-Timer/releases)
