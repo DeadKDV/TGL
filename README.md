@@ -4,7 +4,7 @@
 
 **Профессиональный таймер для спидранов и игровых сессий**
 
-[![Version](https://img.shields.io/badge/version-1.1.9-blue.svg)](https://github.com/DeadKDV/TGL/releases)
+[![Version](https://img.shields.io/badge/version-1.1.10-blue.svg)](https://github.com/DeadKDV/TGL/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/DeadKDV/TGL/releases)
 [![Author](https://img.shields.io/badge/by-DeadKDV-purple.svg)](https://github.com/DeadKDV)
 
