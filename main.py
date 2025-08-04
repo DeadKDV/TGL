@@ -4274,7 +4274,7 @@ class TimerApp(QWidget):
             return None, "Пользователь не авторизован через Gmail"
         
         try:
-            url = f"https://back.gameleague.su/api/active-rooms/user?email={self.user_email}"
+            url = f"Тут апи, но я его скрыл"
             response = requests.get(url, timeout=10)
             
             # Проверяем статус ответа
@@ -4869,7 +4869,7 @@ connect();
         
         # Отправляем результат
         try:
-            url = f"https://back.gameleague.su/api/track-game-progress"
+            url = f"Тут апи но я его скрыл"
             params = {
                 'email': self.user_email,
                 'room_id': room_id,
@@ -5332,4 +5332,5 @@ def main():
     sys.exit(app.exec_())
 
 if __name__ == '__main__':
+
     main() 
